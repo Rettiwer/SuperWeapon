@@ -1,0 +1,7 @@
+name: SuperWeapon
+main: pl.rettiwer.superweapon.Main
+author: Rettiwer
+version: 1.0
+commands:
+    superweapon:
+        desc: Give player a superweapon;
